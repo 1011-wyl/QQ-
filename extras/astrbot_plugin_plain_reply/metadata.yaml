@@ -1,0 +1,4 @@
+name: astrbot_plugin_plain_reply
+desc: Collapse blank lines and strip markdown symbols before sending replies.
+author: local
+version: 0.1.0
