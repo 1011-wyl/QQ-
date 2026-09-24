@@ -1,0 +1,10 @@
+packages:
+  - packages/*
+allowBuilds:
+  '@heroui/shared-utils': true
+  '@homebridge/node-pty-prebuilt-multiarch': true
+  '@swc/core': true
+  esbuild: true
+  sharp: true
+  ttf2woff2: true
+  unrs-resolver: true
